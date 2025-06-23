@@ -1,10 +1,11 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>`n<rss version="2.0">`n<channel>`n<title>Amazon Price Monitor</title>`n<link>https://amazon.com.au/</link>`n<description>Summary of price checks</description>
+<item><title>Amazon Price Monitor - 2025-06-23 21:05:07</title><link>https://amazon.com.au/</link><pubDate>Mon, 23 Jun 2025 21:05:07 GMT</pubDate><description><![CDATA[<h2>Funko Pop</h2><b>Futurama - Bender Pop! RS</b>: ./amazonprice (same as last run)<br/><br/>]]></description></item>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
 <title>Amazon Price Monitor</title>
 <link>https://amazon.com.au/</link>
 <description>Latest price check summary</description>
-<item>
   <title>Amazon Price Monitor - 2025-06-23 21:00:43</title>
   <link>https://amazon.com.au/</link>
   <pubDate>Mon, 23 Jun 2025 21:00:43 GMT</pubDate>
@@ -12,3 +13,4 @@
 </item>
 </channel>
 </rss>
+</channel>`n</rss>
