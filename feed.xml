@@ -1,6 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
+<item>
+  <title>Amazon Price Monitor - 2025-06-23 21:14:24</title>
+  <guid isPermaLink="false">940d06d7-9a33-49b0-9d70-1eab3444c29c</guid>
+  <link>https://amazon.com.au/</link>
+  <pubDate>Mon, 23 Jun 2025 21:14:24 GMT</pubDate>
+  <description><![CDATA[]]></description>
+</item>
 <title>Amazon Price Monitor</title>
 <link>https://amazon.com.au/</link>
 <description>Summary of price checks</description>
@@ -34,3 +41,4 @@
 </item>
 </channel>
 </rss>
+
