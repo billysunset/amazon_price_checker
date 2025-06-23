@@ -2,15 +2,22 @@
 <rss version="2.0">
 <channel>
   <title>Amazon Price Monitor</title>
-  <link>https://amazon.' + $Region + '</link>
+  <link>https://amazon.com.au/</link>
   <description>Price history</description>
-  <lastBuildDate>' + $lastBuild + '</lastBuildDate><item>
+  <lastBuildDate>Mon, 23 Jun 2025 21:49:08 GMT</lastBuildDate><item>
+  <title>Amazon Price Monitor - 2025-06-23 21:49:08</title>
+  <guid isPermaLink='false'>09a9be39-cd15-49e4-bed9-1bfcfae9823d</guid>
+  <link>https://amazon.com.au/</link>
+  <pubDate>Mon, 23 Jun 2025 21:49:08 GMT</pubDate>
+  <description><![CDATA[<h2>Funko Pop</h2><b>Futurama - Bender Pop! RS</b>: \./amazon{price} (no change)<br/><h2>Monster</h2><b>White Monster 24 Pack</b>: \./amazon{price} (no change)]]></description>
+</item><item>
   <title>Amazon Price Monitor - 2025-06-23 21:47:12</title>
   <guid isPermaLink='false'>96dc48ac-a33b-4ab5-b654-4855307894cb</guid>
   <link>https://amazon.com.au/</link>
   <pubDate>Mon, 23 Jun 2025 21:47:12 GMT</pubDate>
   <description><![CDATA[<h2>Funko Pop</h2><b>Futurama - Bender Pop! RS</b>: \clear{price} (no change)<br/><h2>Monster</h2><b>White Monster 24 Pack</b>: \clear{price} (no change)]]></description>
-</item><item>
+</item>
+<item>
   <title>Amazon Price Monitor - 2025-06-23 21:44:43</title>
   <guid isPermaLink="false">5cfbe260-a25a-46ac-ad8c-1942e1579ea2</guid>
   <link>https://amazon.com.au/</link>
