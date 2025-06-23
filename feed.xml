@@ -1,6 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-<channel>
+\\<item>
+  <title>Amazon Price Monitor - 2025-06-23 21:17:54</title>
+  <guid isPermaLink="false">dfb1e2f7-39b0-4b63-9f0c-cefb2f4fc4ab</guid>
+  <link>https://amazon.com.au/</link>
+  <pubDate>Mon, 23 Jun 2025 21:17:54 GMT</pubDate>
+  <description><![CDATA[<h2>Funko Pop</h2><b>Futurama - Bender Pop! RS</b>: $24.95 (same as last run)]]></description>
+</item>
 <item>
   <title>Amazon Price Monitor - 2025-06-23 21:15:49</title>
   <guid isPermaLink="false">482efd7a-9491-4d9b-826d-adeafabbd9e1</guid>
@@ -48,5 +54,6 @@
 </item>
 </channel>
 </rss>
+
 
 
