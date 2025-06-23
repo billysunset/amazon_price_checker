@@ -2,27 +2,36 @@
 <rss version="2.0">
 <channel>
   <title>Amazon Price Monitor</title>
-  <link>https://amazon.com.au/</link>
+  <link>https://amazon.' + $Region + '</link>
   <description>Price history</description>
-  <lastBuildDate>Mon, 23 Jun 2025 21:44:43 GMT</lastBuildDate><item>
+  <lastBuildDate>' + $lastBuild + '</lastBuildDate><item>
+  <title>Amazon Price Monitor - 2025-06-23 21:47:12</title>
+  <guid isPermaLink='false'>96dc48ac-a33b-4ab5-b654-4855307894cb</guid>
+  <link>https://amazon.com.au/</link>
+  <pubDate>Mon, 23 Jun 2025 21:47:12 GMT</pubDate>
+  <description><![CDATA[<h2>Funko Pop</h2><b>Futurama - Bender Pop! RS</b>: \clear{price} (no change)<br/><h2>Monster</h2><b>White Monster 24 Pack</b>: \clear{price} (no change)]]></description>
+</item><item>
   <title>Amazon Price Monitor - 2025-06-23 21:44:43</title>
   <guid isPermaLink="false">5cfbe260-a25a-46ac-ad8c-1942e1579ea2</guid>
   <link>https://amazon.com.au/</link>
   <pubDate>Mon, 23 Jun 2025 21:44:43 GMT</pubDate>
   <description><![CDATA[<h2>Funko Pop</h2><b>Futurama - Bender Pop! RS</b>: \./amazon{price} (no change)<br/><h2>Monster</h2><b>White Monster 24 Pack</b>: \./amazon{price} (no change)]]></description>
-</item><item>
+</item>
+<item>
   <title>Amazon Price Monitor - 2025-06-23 21:43:00</title>
   <guid isPermaLink="false">e6468473-b999-47b7-8651-fa02385270db</guid>
   <link>https://amazon.com.au/</link>
   <pubDate>Mon, 23 Jun 2025 21:43:00 GMT</pubDate>
   <description><![CDATA[<h2>Funko Pop</h2><b>Futurama - Bender Pop! RS</b>: \./amazon{price} (first run)<br/><h2>Monster</h2><b>White Monster 24 Pack</b>: \./amazon{price} (first run)]]></description>
-</item> <item>
+</item>
+<item>
   <title>Amazon Price Monitor - 2025-06-23 21:37:30</title>
   <guid isPermaLink="false">5367f972-1556-4002-82c7-f5037f4ac908</guid>
   <link>https://amazon.com.au/</link>
   <pubDate>Mon, 23 Jun 2025 21:37:30 GMT</pubDate>
   <description><![CDATA[<h2>Funko Pop</h2><b>Futurama - Bender Pop! RS</b>: \./amazon{price} (no change)<br/><h2>Monster</h2><b>White Monster 24 Pack</b>: \./amazon{price} (first run)]]></description>
-</item> <item>
+</item>
+<item>
   <title>Amazon Price Monitor - 2025-06-23 21:36:13</title>
   <guid isPermaLink="false">2417f116-9602-42f1-acc9-56b948d2d184</guid>
   <link>https://amazon.com.au/</link>
