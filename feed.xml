@@ -4,14 +4,95 @@
   <title>Amazon Price Monitor</title>
   <link>https://amazon.com.au/</link>
   <description>Price history</description>
-  <lastBuildDate>Mon, 30 Jun 2025 15:37:38 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 30 Jun 2025 15:44:34 GMT</lastBuildDate>
   <ttl>5</ttl><item>
+  <title>Amazon Price Monitor - 2025-06-30 15:44:34</title>
+  <guid isPermaLink='false'>0a48003b-6eb5-4857-9115-57e439ea209b</guid>
+  <link>https://amazon.com.au/</link>
+  <pubDate>Mon, 30 Jun 2025 15:44:34 GMT</pubDate>
+  <description><![CDATA[
+    <h2>Funko Pop</h2>
+<table border='1' cellpadding='4' cellspacing='0'>
+  <thead>
+    <tr>
+      <th>Product</th>
+      <th>Price</th>
+      <th>Î” Since Yesterday</th>
+      <th>28-Day Avg</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Futurama - Bender Pop! RS</td><td>$24.95</td><td>$(@{ChangeSinceYesterday=0.00; Avg28Day=24.93}.ChangeSinceYesterday)</td><td>$(@{ChangeSinceYesterday=0.00; Avg28Day=24.93}.Avg28Day)</td></tr>
+<tr><td>The Invisible Man Vinyl Figure</td><td>$19.99</td><td>$(@{ChangeSinceYesterday=0.00; Avg28Day=19.99}.ChangeSinceYesterday)</td><td>$(@{ChangeSinceYesterday=0.00; Avg28Day=19.99}.Avg28Day)</td></tr>
+<tr><td>Funko A Nightmare on Elm Street Pop Figure</td><td>$21.99</td><td>$(@{ChangeSinceYesterday=0.00; Avg28Day=21.99}.ChangeSinceYesterday)</td><td>$(@{ChangeSinceYesterday=0.00; Avg28Day=21.99}.Avg28Day)</td></tr>
+<tr><td>Funko POP! Movies: Ghostface - Ghostface</td><td>$21.99</td><td>$(@{ChangeSinceYesterday=5.00; Avg28Day=20.71}.ChangeSinceYesterday)</td><td>$(@{ChangeSinceYesterday=5.00; Avg28Day=20.71}.Avg28Day)</td></tr>
+<tr><td>FUNKO POP! Movies: Halloween- Michael Myers, New Pose</td><td>$21.99</td><td>$(@{ChangeSinceYesterday=0.00; Avg28Day=31.23}.ChangeSinceYesterday)</td><td>$(@{ChangeSinceYesterday=0.00; Avg28Day=31.23}.Avg28Day)</td></tr>
+<tr><td>FUNKO POP! ROCKS: Elvis Presley - Pharaoh suit</td><td>$21.99</td><td>$(@{ChangeSinceYesterday=0.00; Avg28Day=16.07}.ChangeSinceYesterday)</td><td>$(@{ChangeSinceYesterday=0.00; Avg28Day=16.07}.Avg28Day)</td></tr>
+<tr><td>FUNKO POP! Movies: Godzilla - Godzilla 1954, 70th Anniversary</td><td>$21.99</td><td>$(@{ChangeSinceYesterday=0.00; Avg28Day=16.07}.ChangeSinceYesterday)</td><td>$(@{ChangeSinceYesterday=0.00; Avg28Day=16.07}.Avg28Day)</td></tr>
+<tr><td>FUNKO POP! MOVIES: Jaws - Jaws w/ Diving Tank 6"</td><td>$65.01</td><td>$(@{ChangeSinceYesterday=0.00; Avg28Day=64.97}.ChangeSinceYesterday)</td><td>$(@{ChangeSinceYesterday=0.00; Avg28Day=64.97}.Avg28Day)</td></tr>
+
+  </tbody>
+</table>
+<br/><h2>Energy Drinks</h2>
+<table border='1' cellpadding='4' cellspacing='0'>
+  <thead>
+    <tr>
+      <th>Product</th>
+      <th>Price</th>
+      <th>Î” Since Yesterday</th>
+      <th>28-Day Avg</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>White Monster 24 Pack</td><td>$57.60</td><td>$(@{ChangeSinceYesterday=0.00; Avg28Day=72.84}.ChangeSinceYesterday)</td><td>$(@{ChangeSinceYesterday=0.00; Avg28Day=72.84}.Avg28Day)</td></tr>
+<tr><td>Ruby Red Monster 24 Pack</td><td>$57.60</td><td>$(@{ChangeSinceYesterday=0.00; Avg28Day=64.64}.ChangeSinceYesterday)</td><td>$(@{ChangeSinceYesterday=0.00; Avg28Day=64.64}.Avg28Day)</td></tr>
+<tr><td>Purple Monster 24 Pack</td><td>$57.60</td><td>$(@{ChangeSinceYesterday=0.00; Avg28Day=76.06}.ChangeSinceYesterday)</td><td>$(@{ChangeSinceYesterday=0.00; Avg28Day=76.06}.Avg28Day)</td></tr>
+<tr><td>Strawberry Monster 24 Pack</td><td>$57.60</td><td>$(@{ChangeSinceYesterday=0.00; Avg28Day=66.95}.ChangeSinceYesterday)</td><td>$(@{ChangeSinceYesterday=0.00; Avg28Day=66.95}.Avg28Day)</td></tr>
+<tr><td>Fast Twitch Purple 12 Pack</td><td>$43.05</td><td>$(@{ChangeSinceYesterday=-7.35; Avg28Day=49.83}.ChangeSinceYesterday)</td><td>$(@{ChangeSinceYesterday=-7.35; Avg28Day=49.83}.Avg28Day)</td></tr>
+
+  </tbody>
+</table>
+<br/><h2>Food</h2>
+<table border='1' cellpadding='4' cellspacing='0'>
+  <thead>
+    <tr>
+      <th>Product</th>
+      <th>Price</th>
+      <th>Î” Since Yesterday</th>
+      <th>28-Day Avg</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Monin Mango Puree 1L</td><td>$27.19</td><td>$(@{ChangeSinceYesterday=0.00; Avg28Day=27.19}.ChangeSinceYesterday)</td><td>$(@{ChangeSinceYesterday=0.00; Avg28Day=27.19}.Avg28Day)</td></tr>
+
+  </tbody>
+</table>
+<br/><h2>Tech</h2>
+<table border='1' cellpadding='4' cellspacing='0'>
+  <thead>
+    <tr>
+      <th>Product</th>
+      <th>Price</th>
+      <th>Î” Since Yesterday</th>
+      <th>28-Day Avg</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>AHGEIIY iPhone Charger Cable 1M 3Pack</td><td>$12.81</td><td>$(@{ChangeSinceYesterday=4.23; Avg28Day=9.23}.ChangeSinceYesterday)</td><td>$(@{ChangeSinceYesterday=4.23; Avg28Day=9.23}.Avg28Day)</td></tr>
+<tr><td>Anker USB C Charger</td><td>$59.00</td><td>$(@{ChangeSinceYesterday=23.01; Avg28Day=39.53}.ChangeSinceYesterday)</td><td>$(@{ChangeSinceYesterday=23.01; Avg28Day=39.53}.Avg28Day)</td></tr>
+
+  </tbody>
+</table>
+<br/>
+  ]]></description>
+</item><item>
   <title>Amazon Price Monitor - 2025-06-30 15:37:38</title>
   <guid isPermaLink='false'>70fff55c-1152-4111-8ab6-88722d977f80</guid>
   <link>https://amazon.com.au/</link>
   <pubDate>Mon, 30 Jun 2025 15:37:38 GMT</pubDate>
   <description><![CDATA[<h2>Funko Pop</h2><b>Futurama - Bender Pop! RS</b>: $24.95 (no change)<br/><h2>Funko Pop</h2><b>The Invisible Man Vinyl Figure</b>: $19.99 (no change)<br/><h2>Funko Pop</h2><b>Funko A Nightmare on Elm Street Pop Figure</b>: $21.99 (no change)<br/><h2>Funko Pop</h2><b>Funko POP! Movies: Ghostface - Ghostface</b>: $21.99 (up 5.00)<br/><h2>Funko Pop</h2><b>FUNKO POP! Movies: Halloween- Michael Myers, New Pose</b>: $21.99 (no change)<br/><h2>Funko Pop</h2><b>FUNKO POP! ROCKS: Elvis Presley - Pharaoh suit</b>: $21.99 (no change)<br/><h2>Funko Pop</h2><b>FUNKO POP! Movies: Godzilla - Godzilla 1954, 70th Anniversary</b>: $21.99 (no change)<br/><h2>Funko Pop</h2><b>FUNKO POP! MOVIES: Jaws - Jaws w/ Diving Tank 6"</b>: $65.01 (no change)<br/><h2>Energy Drinks</h2><b>White Monster 24 Pack</b>: $57.60 (no change)<br/><h2>Energy Drinks</h2><b>Ruby Red Monster 24 Pack</b>: $57.60 (no change)<br/><h2>Energy Drinks</h2><b>Purple Monster 24 Pack</b>: $57.60 (no change)<br/><h2>Energy Drinks</h2><b>Strawberry Monster 24 Pack</b>: $57.60 (no change)<br/><h2>Energy Drinks</h2><b>Fast Twitch Purple 12 Pack</b>: $50.40 (no change)<br/><h2>Food</h2><b>Monin Mango Puree 1L</b>: $27.19 (no change)<br/><h2>Tech</h2><b>AHGEIIY iPhone Charger Cable 1M 3Pack</b>: $12.81 (up 4.23)<br/><h2>Tech</h2><b>Anker USB C Charger</b>: $59.00 (up 23.01)]]></description>
-</item><item>
+</item>
+<item>
   <title>Amazon Price Monitor - 2025-06-29 14:04:57</title>
   <guid isPermaLink='false'>df04ac46-c008-4824-b0fd-ae8e93e77056</guid>
   <link>https://amazon.com.au/</link>
