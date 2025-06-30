@@ -4,8 +4,38 @@
   <title>Amazon Price Monitor</title>
   <link>https://amazon.com.au/</link>
   <description>Price history</description>
-  <lastBuildDate>Mon, 30 Jun 2025 15:54:35 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 30 Jun 2025 15:59:54 GMT</lastBuildDate>
   <ttl>5</ttl><item>
+  <title>Amazon Price Monitor - 2025-06-30 15:59:54</title>
+  <guid isPermaLink='false'>7b89ae40-521d-42e4-9de0-82f6c8d7580a</guid>
+  <link>https://amazon.com.au/</link>
+  <pubDate>Mon, 30 Jun 2025 15:59:54 GMT</pubDate>
+  <description><![CDATA[
+=== Funko Pop ===
+Futurama - Bender Pop! RS - current price, same price as yesterday and the 28-day average is (@{ChangeSinceYesterday=0.00; Avg28Day=24.93}.Avg28Day)
+The Invisible Man Vinyl Figure - current price, same price as yesterday and the 28-day average is (@{ChangeSinceYesterday=0.00; Avg28Day=19.99}.Avg28Day)
+Funko A Nightmare on Elm Street Pop Figure - current price, same price as yesterday and the 28-day average is (@{ChangeSinceYesterday=0.00; Avg28Day=21.99}.Avg28Day)
+Funko POP! Movies: Ghostface - Ghostface - current price, up 5.00 since yesterday and the 28-day average is (@{ChangeSinceYesterday=5.00; Avg28Day=21.01}.Avg28Day)
+FUNKO POP! Movies: Halloween- Michael Myers, New Pose - current price, same price as yesterday and the 28-day average is (@{ChangeSinceYesterday=0.00; Avg28Day=29.05}.Avg28Day)
+FUNKO POP! ROCKS: Elvis Presley - Pharaoh suit - current price, same price as yesterday and the 28-day average is (@{ChangeSinceYesterday=0.00; Avg28Day=17.46}.Avg28Day)
+FUNKO POP! Movies: Godzilla - Godzilla 1954, 70th Anniversary - current price, same price as yesterday and the 28-day average is (@{ChangeSinceYesterday=0.00; Avg28Day=17.46}.Avg28Day)
+FUNKO POP! MOVIES: Jaws - Jaws w/ Diving Tank 6" - current price, same price as yesterday and the 28-day average is (@{ChangeSinceYesterday=0.00; Avg28Day=64.98}.Avg28Day)
+
+=== Energy Drinks ===
+White Monster 24 Pack - current price, same price as yesterday and the 28-day average is (@{ChangeSinceYesterday=0.00; Avg28Day=70.49}.Avg28Day)
+Ruby Red Monster 24 Pack - current price, same price as yesterday and the 28-day average is (@{ChangeSinceYesterday=0.00; Avg28Day=62.98}.Avg28Day)
+Purple Monster 24 Pack - current price, same price as yesterday and the 28-day average is (@{ChangeSinceYesterday=0.00; Avg28Day=71.72}.Avg28Day)
+Strawberry Monster 24 Pack - current price, same price as yesterday and the 28-day average is (@{ChangeSinceYesterday=0.00; Avg28Day=64.75}.Avg28Day)
+Fast Twitch Purple 12 Pack - current price, down 7.35 since yesterday and the 28-day average is (@{ChangeSinceYesterday=-7.35; Avg28Day=48.24}.Avg28Day)
+
+=== Food ===
+Monin Mango Puree 1L - current price, same price as yesterday and the 28-day average is (@{ChangeSinceYesterday=0.00; Avg28Day=27.19}.Avg28Day)
+
+=== Tech ===
+AHGEIIY iPhone Charger Cable 1M 3Pack - current price, up 4.23 since yesterday and the 28-day average is (@{ChangeSinceYesterday=4.23; Avg28Day=10.07}.Avg28Day)
+Anker USB C Charger - current price, up 23.01 since yesterday and the 28-day average is (@{ChangeSinceYesterday=23.01; Avg28Day=44.11}.Avg28Day)
+  ]]></description>
+</item><item>
   <title>Amazon Price Monitor - 2025-06-30 15:54:35</title>
   <guid isPermaLink='false'>40626579-2d8b-4c56-b9d2-5d6e48664323</guid>
   <link>https://amazon.com.au/</link>
@@ -36,7 +66,8 @@ Product | Price | Change Since Yesterday | 28-Day Avg
 -------|-------|----------------------|-----------AHGEIIY iPhone Charger Cable 1M 3Pack | price | $4.23 | $9.9
 Anker USB C Charger | price | $23.01 | $43.18
   ]]></description>
-</item><item>
+</item>
+<item>
   <title>Amazon Price Monitor - 2025-06-30 15:51:59</title>
   <guid isPermaLink='false'>b03c3842-b18c-4433-bc21-8bed2f186b9e</guid>
   <link>https://amazon.com.au/</link>
